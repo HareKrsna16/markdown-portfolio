@@ -2,15 +2,15 @@ Write out some of your awesome attributes, and use emphasis (like bold or italic
 
 Attributes : 
 
-**Spiritual**
-*Rational*
+**Spiritual**  
+*Rational*  
 **Devotee of Krishna _(aspiring to be an ardent one)_ **
 
 Programming Languages :
 
-_Python_
-_Bash_
-_Java_
+_Python_  
+_Bash_  
+_Java_  
 
 Skills :
 
