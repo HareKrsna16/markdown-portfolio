@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+Favourites : 
+
+1. Krishna
+2. Computers
+3. Rationality
