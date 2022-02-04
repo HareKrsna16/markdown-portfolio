@@ -20,4 +20,3 @@ layout: default
 
 {% include 05-emphasis.md %}
 
-{% include 03-links.md %}
