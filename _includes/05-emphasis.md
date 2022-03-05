@@ -4,7 +4,7 @@ Attributes :
 
 **Spiritual**  
 *Rational*  
-**Devotee of Krishna _(aspiring to be an ardent one)_**
+**Servant of Servant of Krishna _(aspiring to be a devotee)_**
 
 Programming Languages :
 
